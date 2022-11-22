@@ -1,6 +1,6 @@
 # hr6
 
-Steps to fun the file : 
+Steps to run the file : 
 1. git clone https://github.com/Shreyanshmmgn/hr6.git
 2. npm install 
 3. npm start 
